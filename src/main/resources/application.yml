@@ -1,0 +1,7 @@
+
+SEARCH:
+  IP: 10.100.0.112
+  SELECT: testR
+
+server:
+  port: 9090
